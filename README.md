@@ -1,3 +1,3 @@
-![Start screen](Screenshot_start.jpg "Start screen")
+![Start screen](Screenshot_start.JPG "Start screen")
 
-![Win screen](Screenshot_win.jpg "Win screen")
+![Win screen](Screenshot_win.JPG "Win screen")
